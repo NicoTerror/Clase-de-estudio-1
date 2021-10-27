@@ -1,1 +1,2 @@
-clase1
+Caso de estudio 1
+
